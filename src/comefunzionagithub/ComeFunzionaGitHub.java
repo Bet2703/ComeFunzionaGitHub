@@ -26,5 +26,6 @@ public class ComeFunzionaGitHub {
         }else{
             System.out.println("Andrea non visualizza");
         }
+        ;
     }
 }
