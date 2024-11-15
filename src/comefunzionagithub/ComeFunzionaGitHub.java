@@ -17,6 +17,15 @@ public class ComeFunzionaGitHub {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("cacca");
+        
+        boolean andrea = false;
+        //se sei andrea modifica "andrea" in true
+        
+        if(andrea){
+            System.out.println("Andrea ha modificato");
+        }else{
+            System.out.println("Andrea non visualizza");
+        }
     }
     
 }
